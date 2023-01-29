@@ -6,3 +6,5 @@ Today we have our first post from our students. This is a new section where the 
 collaborate and give ideas, links, suggestions, comments and anything about ENGLISH.
 
 Texto innecesario.
+
+En esta oportunidad quiero hacerles saber que estoy practicando con git.
